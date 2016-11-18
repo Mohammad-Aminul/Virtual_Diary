@@ -1,0 +1,23 @@
+﻿<Window x:Class="My_Diary.history"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="History Input" Height="700" Width="1100"
+        WindowStartupLocation="CenterScreen"
+        WindowState="Normal"
+        ResizeMode="CanResize"
+        
+        BorderThickness="20"
+        BorderBrush="Gray"
+         Icon="images/vd1.ico"
+        >
+    <Grid>
+        <Image Stretch="Fill" Source="images/vd.PNG"></Image>
+        <TextBox Name="txt_show_selected_description" HorizontalAlignment="Left" AcceptsReturn="True" Height="380" Margin="29,219,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="655"/>
+        <Label Content="Title:" HorizontalAlignment="Left" Margin="29,174,0,0" VerticalAlignment="Top" RenderTransformOrigin="-3.7,-0.336"/>
+        <Label Name="lbl_title" Content="" HorizontalAlignment="Left" Margin="80,174,0,0" VerticalAlignment="Top" RenderTransformOrigin="-4.051,0.499" Width="947"/>
+        <DataGrid Name="data_grid" AutoGenerateColumns="True"  HorizontalAlignment="Left" Margin="29,23,0,0" VerticalAlignment="Top" Height="146" Width="655" SelectionChanged="data_grid_SelectionChanged"/>
+        <Image Name="image_box1" HorizontalAlignment="Left" Height="380" Margin="705,219,0,0" VerticalAlignment="Top" Width="311" Stretch="Fill"/>
+        <Button Foreground="Red" Background="Green" Content="Close" BorderBrush="AliceBlue" FontSize="15" FontWeight="Bold" BorderThickness="10" HorizontalAlignment="Left" Margin="758,64,0,0" VerticalAlignment="Top" Width="165" Height="39" Click="Button_Click_1"/>
+
+    </Grid>
+</Window>

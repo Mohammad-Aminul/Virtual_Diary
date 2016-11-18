@@ -1,0 +1,26 @@
+D:\6th semester\project(CSE600)\Practice project\My Diary\My Diary\bin\Debug\My Diary.exe.config
+D:\6th semester\project(CSE600)\Practice project\My Diary\My Diary\bin\Debug\My Diary.exe
+D:\6th semester\project(CSE600)\Practice project\My Diary\My Diary\bin\Debug\My Diary.pdb
+D:\6th semester\project(CSE600)\Practice project\My Diary\My Diary\obj\Debug\MainWindow.baml
+D:\6th semester\project(CSE600)\Practice project\My Diary\My Diary\obj\Debug\MainWindow.g.cs
+D:\6th semester\project(CSE600)\Practice project\My Diary\My Diary\obj\Debug\App.g.cs
+D:\6th semester\project(CSE600)\Practice project\My Diary\My Diary\obj\Debug\My Diary_MarkupCompile.cache
+D:\6th semester\project(CSE600)\Practice project\My Diary\My Diary\obj\Debug\My Diary.g.resources
+D:\6th semester\project(CSE600)\Practice project\My Diary\My Diary\obj\Debug\My_Diary.Properties.Resources.resources
+D:\6th semester\project(CSE600)\Practice project\My Diary\My Diary\obj\Debug\My Diary.csproj.GenerateResource.Cache
+D:\6th semester\project(CSE600)\Practice project\My Diary\My Diary\obj\Debug\My Diary.exe
+D:\6th semester\project(CSE600)\Practice project\My Diary\My Diary\obj\Debug\My Diary.pdb
+D:\6th semester\project(CSE600)\Practice project\My Diary\My Diary\obj\Debug\Input_history.baml
+D:\6th semester\project(CSE600)\Practice project\My Diary\My Diary\obj\Debug\Input_history.g.cs
+D:\6th semester\project(CSE600)\Practice project\My Diary\My Diary\bin\Debug\System.Data.SQLite.xml
+D:\6th semester\project(CSE600)\Practice project\My Diary\My Diary\obj\Debug\history.baml
+D:\6th semester\project(CSE600)\Practice project\My Diary\My Diary\obj\Debug\history.g.cs
+D:\6th semester\project(CSE600)\Practice project\My Diary\My Diary\obj\Debug\about.baml
+D:\6th semester\project(CSE600)\Practice project\My Diary\My Diary\obj\Debug\about.g.cs
+D:\6th semester\project(CSE600)\Practice project\My Diary\My Diary\obj\Debug\all_image_show.baml
+D:\6th semester\project(CSE600)\Practice project\My Diary\My Diary\obj\Debug\all_image_show.g.cs
+D:\6th semester\project(CSE600)\Practice project\My Diary\My Diary\obj\Debug\Manage_account.baml
+D:\6th semester\project(CSE600)\Practice project\My Diary\My Diary\obj\Debug\Manage_account.g.cs
+D:\6th semester\project(CSE600)\Practice project\My Diary\My Diary\bin\Debug\System.Data.SQLite.1.0.66.0.Fakes.fakesconfig
+D:\6th semester\project(CSE600)\Practice project\My Diary\My Diary\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\6th semester\project(CSE600)\Practice project\My Diary\My Diary\obj\Debug\My Diary.csprojFakesResolveAssemblyReference.cache
